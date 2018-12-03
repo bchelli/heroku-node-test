@@ -1,4 +1,4 @@
 build:
   docker:
-    web: docker/web/Dockerfile
+    web: Dockerfile-web
 
