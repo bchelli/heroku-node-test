@@ -1,4 +1,5 @@
 build:
   docker:
     web: Dockerfile-web
+    web-2: Dockerfile-web-2
 
