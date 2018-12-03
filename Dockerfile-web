@@ -1,5 +1,7 @@
 FROM node:8
 
+ENV SERVICE_NAME=web
+
 # Create app directory
 WORKDIR /usr/src/app
 
